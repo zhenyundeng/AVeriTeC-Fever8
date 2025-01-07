@@ -19,7 +19,7 @@ leaderboard:
   - id: 1
     schema:
       {
-        "labels": ["Q only", "Q + A", "AVeriTeC Score", "EV2R Score"],
+        "labels": ["EV2R Score"],
         "default_order_by": "EV2R Score",
       }
 
